@@ -59,7 +59,7 @@ class _HomePageState extends State<HomePage> {
                               style: TextStyle(color: Colors.grey),
                             ),
                             SizedBox(
-                              width: 370,
+                              width: 231,
                             ),
                             Icon(
                               Icons.camera_alt_outlined,
